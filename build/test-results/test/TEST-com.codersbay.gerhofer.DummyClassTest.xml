@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.codersbay.gerhofer.DummyClassTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-06-08T09:23:31" hostname="Digi-Mindset" time="0.021">
+<testsuite name="com.codersbay.gerhofer.DummyClassTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-06-07T12:19:03" hostname="DESKTOP-SH6VPQE" time="0.036">
   <properties/>
-  <testcase name="testDoNotCallThrowsException()" classname="com.codersbay.gerhofer.DummyClassTest" time="0.018"/>
-  <testcase name="testGetAge()" classname="com.codersbay.gerhofer.DummyClassTest" time="0.002"/>
+  <testcase name="circleTest()" classname="com.codersbay.gerhofer.DummyClassTest" time="0.02"/>
+  <testcase name="RectangleIsZero()" classname="com.codersbay.gerhofer.DummyClassTest" time="0.003"/>
+  <testcase name="testDoNotCallThrowsException()" classname="com.codersbay.gerhofer.DummyClassTest" time="0.001"/>
+  <testcase name="CircleIsNegative()" classname="com.codersbay.gerhofer.DummyClassTest" time="0.002"/>
+  <testcase name="testGetAge()" classname="com.codersbay.gerhofer.DummyClassTest" time="0.001"/>
+  <testcase name="rectangleTest()" classname="com.codersbay.gerhofer.DummyClassTest" time="0.001"/>
+  <testcase name="RectangleIsNegative()" classname="com.codersbay.gerhofer.DummyClassTest" time="0.001"/>
+  <testcase name="CircleIsZero()" classname="com.codersbay.gerhofer.DummyClassTest" time="0.001"/>
+  <testcase name="squareTest()" classname="com.codersbay.gerhofer.DummyClassTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
